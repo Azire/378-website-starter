@@ -1,2 +1,2 @@
-
-      $(document).foundation();
+// My Scripts
+$(document).foundation();
